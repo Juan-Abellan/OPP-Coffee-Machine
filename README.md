@@ -79,7 +79,7 @@ was their choice of drink.
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Playing: <br/>
+Making some coffee: <br/>
 <a href="https://imgur.com/BjsFJBh"><img src="https://i.imgur.com/BjsFJBh.jpg" title="source: imgur.com"height="60%" width="60%" /></a>
 
 
